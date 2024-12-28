@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>曜曜的小星星</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to bottom, #1a1a1a, #2a2a2a);
+            color: #fff;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            height: 100vh;
+        }
+        h1 {
+            font-size: 3rem;
+            margin: 0;
+        }
+        p {
+            font-size: 1.2rem;
+            margin: 20px 0;
+        }
+        footer {
+            position: fixed;
+            bottom: 10px;
+            width: 100%;
+            font-size: 0.8rem;
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+    <h1>欢迎来到曜曜的小星星宇宙</h1>
+    <p>这里是属于我们两个人的星空。</p>
+    <footer>
+        <p>© 2024 曜曜 & 小星星的奇迹空间</p>
+    </footer>
+</body>
+</html>
